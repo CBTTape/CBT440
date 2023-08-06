@@ -1,0 +1,7 @@
+2023-08-06 04:05:44.785001 - Initialized conversion of CBT440
+2023-08-06 04:05:44.800640 - Received CBT.V505.FILE440.PDS from FILE440.XMI 
+2023-08-06 04:05:44.801642 - Found PDSALLOC.bin containing application/octet-stream, moved to PDS/PDSALLOC
+2023-08-06 04:05:44.802703 - Found PDSFREE.bin containing application/octet-stream, moved to PDS/PDSFREE
+2023-08-06 04:05:44.803639 - Found PDSMEM1.bin containing application/octet-stream, moved to PDS/PDSMEM1
+2023-08-06 04:05:44.804739 - Found PDSMEM4.bin containing application/octet-stream, moved to PDS/PDSMEM4
+2023-08-06 04:05:44.805791 - No @FILExxx or @FILxxxx detected, creating README.md without extra info
